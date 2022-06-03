@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@300&family=Source+Code+Pro:wght@300&display=swap');
+
+* {
+    box-sizing: border-box;
+    font-family: 'Source Code Pro', monospace;
+}
+
+body {
+    overflow: hidden;
+    background-color: #030303;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 100%;
+    height: 100%;
+    background-color: #3a3737;
+
+}
+
+.info-search {
+    width: 100%;
+    height: 100%;
+    background-color: #000000;
+    padding: 30px;
+    text-align: center;
+    border-bottom: 1px solid #ffffffa1;
+}
+
+.info-search input {
+    border: 2px solid #ffffff;
+    border-radius: 3px;
+    padding: 10px 20px;
+    width: 15%;
+    outline: none;
+    transition: all 0.2s;
+}
+
+.info-search input:hover {
+    border: 2px solid #1055ccA1;
+}
+
+.info-search button {
+    border: 2px solid #ffffff;
+    background-color: transparent;
+    color: #ffffff;
+    cursor: pointer;
+
+    border-radius: 4px;
+    padding: 10px 20px;
+    outline: none;
+    transition: all 0.2s;
+}
+
+.info-search button:hover {
+    border: 2px solid #4885eea1;
+}
+
+.info-holder {
+    width: 100%;
+    height: 100%;
+    background-color: #000000;
+    color: #ffffffa1;
+    padding: 30px;
+    text-align: center;
+}
+
+img {
+    opacity: 70%;
+    width: 20%;
+    border-radius: 50%;
+    border: 5px solid #829686;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+img:hover{
+    border: 5px solid #829686a1;
+    opacity: 100%;
+}
+
+
+.info-text {
+    z-index: 2;
+    display: inline-block;
+    margin: 55px;
+}
+
+.desc {
+    z-index: 2;
+    padding-top: 7rem;
+}
+
+.userid {
+    z-index: 2;
+}
+.info-holder a {
+    color: #ffffffa1;
+    text-decoration: none;
+    position: absolute;
+    margin: 0 auto;
+    text-align: center;
+    transition: all 0.2s;
+}
+.info-holder a:hover{ 
+    color: #ffffff;
+   
+}
+
+.repos {
+    width: 20%;
+    height: 80%;
+    border: 3px dashed #ffffff;
+    border-radius: 15px;
+    position: absolute;
+    top: 15%;
+    left: 5%;
+    transition: all 0.2s;
+    text-align: center;  
+    
+}
+.repos .header {
+    width: 100%;
+    height: 15%;
+    border-radius:15px 15px 0 0;
+    background-color: #d8ddd9;
+    text-align: center;
+    color: #111111a1;
+    padding: 15px;
+
+}
+.repos #repo-btn {
+    text-decoration: none;
+    color: rgb(253, 253, 253);
+    text-align: center;    
+}
+
+.repos a {
+    text-decoration: none;
+    color: #ffffff;
+    transition: all 0.1s;
+    text-align: center;
+}
+.repos a:hover {
+    color: #b4b4b4;
+}
+@media screen and (max-width: 720px) {
+    body {
+        overflow: scroll;
+    }
+    .info-search input {
+        width: 170px;
+    }
+    .info-holder img {
+        width: 50%;
+    }
+}
