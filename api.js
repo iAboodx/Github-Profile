@@ -1,1 +1,118 @@
-function _0x1fc8(_0xcf5078,_0x139505){const _0x3f4837=_0x3f48();return _0x1fc8=function(_0x1fc80d,_0x763c06){_0x1fc80d=_0x1fc80d-0x95;let _0x58e74c=_0x3f4837[_0x1fc80d];return _0x58e74c;},_0x1fc8(_0xcf5078,_0x139505);}const _0x46c686=_0x1fc8;(function(_0x52896d,_0x25f158){const _0x146c0e=_0x1fc8,_0x4f4294=_0x52896d();while(!![]){try{const _0x1046f0=parseInt(_0x146c0e(0xa9))/0x1+parseInt(_0x146c0e(0x95))/0x2+parseInt(_0x146c0e(0xb4))/0x3+-parseInt(_0x146c0e(0xcc))/0x4*(parseInt(_0x146c0e(0xcd))/0x5)+parseInt(_0x146c0e(0xb8))/0x6+-parseInt(_0x146c0e(0xd8))/0x7*(-parseInt(_0x146c0e(0xbf))/0x8)+-parseInt(_0x146c0e(0xc6))/0x9;if(_0x1046f0===_0x25f158)break;else _0x4f4294['push'](_0x4f4294['shift']());}catch(_0x7c5768){_0x4f4294['push'](_0x4f4294['shift']());}}}(_0x3f48,0x95961));const input=document[_0x46c686(0xcb)]('search'),btn=document[_0x46c686(0xcb)](_0x46c686(0xd1)),requri=_0x46c686(0x97),deletealert=document[_0x46c686(0xa4)](_0x46c686(0xae)),alertx=document[_0x46c686(0xa4)](_0x46c686(0xd6));deletealert['addEventListener'](_0x46c686(0xc1),()=>{const _0x3511c3=_0x46c686;alertx[_0x3511c3(0xbe)][_0x3511c3(0xd7)]=_0x3511c3(0xa2);}),btn[_0x46c686(0xcf)](_0x46c686(0xc1),()=>{const _0xc9533=_0x46c686;if(input[_0xc9533(0x96)][_0xc9533(0xb9)]<0x1||input[_0xc9533(0x96)]==='\x20'||input[_0xc9533(0x96)]==='')return alertsss(_0xc9533(0xc8));requestinfo();});function alertsss(_0x4b989b){const _0x51749e=_0x46c686;alertx['style']['display']='block',alertx[_0x51749e(0xa7)]='<div\x20class=\x22alert\x20alert-danger\x22\x20role=\x22alert\x22>'+_0x4b989b+'<i\x20class=\x22fa-solid\x20fa-xmark-circle\x20delete\x22></i></div>',setTimeout(()=>{const _0x19d379=_0x51749e;alertx['style'][_0x19d379(0xd7)]='none';},0x9c4);}function _0x3f48(){const _0x38a92=['859922yCiNeB','name','.twitter','height','<span\x20class=\x22icon-font\x22><svg\x20class=\x22icon\x22><use\x20xlink:href=\x22#icon-twitter\x22></use></svg></span>','.delete','json','href','keypress','blog','twitter_username','2326734HHMZlM','link[rel~=\x27icon\x27]','add','rel','5050944BYdrbQ','length','.profile-card-social__item','No\x20public\x20repos','11vh','following','style','2207368gGIhVx','No\x20following','click','User\x20not\x20found','public_repos','profile-card-social__item','querySelectorAll','13502367LflCKh','public_gists','Type\x20a\x20username\x20between\x201\x20to\x2032','No\x20followers','.rp','getElementById','4fqLctr','5392745gpIUWL','followers','addEventListener','createElement','search-btn','.profile-card__txt','No\x20name\x20set','twitter','.rpp','.alerts','display','7HOOvYs','open','title','avatar_url','.flg','.back','keyCode','No\x20location\x20set','876544QvbNBr','value','https://api.github.com/users/','location','icon','src','appendChild','classList','bio','?v=4','.profile-card__name','.fls','.profile-card-loc__txt','none','profile-card__img','querySelector','remove','getElementsByTagName','innerHTML','No\x20bio\x20set'];_0x3f48=function(){return _0x38a92;};return _0x3f48();}async function requestinfo(_0x2763d6){const _0x31211b=_0x46c686,_0x248a0c=await fetch(requri+input[_0x31211b(0x96)]),_0x5bde8b=await _0x248a0c[_0x31211b(0xaf)]();if(_0x5bde8b['message']==='Not\x20Found')return alertsss(_0x31211b(0xc2));if(_0x5bde8b){profo(_0x5bde8b),document[_0x31211b(0xc5)](_0x31211b(0xba))['forEach'](_0x70ae7b=>{const _0x3962e7=_0x31211b;_0x70ae7b[_0x3962e7(0xa5)]();});const _0x2345da=document[_0x31211b(0xa4)]('.items');_0x2345da[_0x31211b(0xbe)][_0x31211b(0xac)]=_0x31211b(0xbc);const _0x591f80=document[_0x31211b(0xa4)](_0x31211b(0xdd));_0x591f80[_0x31211b(0xbe)][_0x31211b(0xac)]=_0x31211b(0xbc);}return _0x2763d6;}async function profo(_0x195eaf){const _0x94cba4=_0x46c686,_0x4808e0=document[_0x94cba4(0xa4)](_0x94cba4(0x9f)),_0x4f32d4=document[_0x94cba4(0xa4)](_0x94cba4(0xd2)),_0x3f28ed=document['getElementById'](_0x94cba4(0xa3)),_0x414248=document[_0x94cba4(0xa4)]('.profile-card__user'),_0x3218cc=document['querySelector'](_0x94cba4(0xa0)),_0x39c080=document[_0x94cba4(0xa4)](_0x94cba4(0xdc)),_0x50194c=document[_0x94cba4(0xa4)](_0x94cba4(0xca)),_0x876d63=document[_0x94cba4(0xa4)](_0x94cba4(0xd5)),_0x24428e=document[_0x94cba4(0xa4)](_0x94cba4(0xab)),_0x23ac05=document['querySelector'](_0x94cba4(0xa1));if(_0x195eaf['name']===null||_0x195eaf['name']==='')_0x195eaf[_0x94cba4(0xaa)]=_0x94cba4(0xd3);if(_0x195eaf['bio']===null||_0x195eaf[_0x94cba4(0x9d)]==='')_0x195eaf[_0x94cba4(0x9d)]=_0x94cba4(0xa8);if(_0x195eaf['avatar_url']===null||_0x195eaf[_0x94cba4(0xdb)]==='')_0x195eaf[_0x94cba4(0xdb)]='https://avatars3.githubusercontent.com/u/'+_0x195eaf['id']+_0x94cba4(0x9e);if(_0x195eaf[_0x94cba4(0x98)]===null||_0x195eaf['location']==='')_0x195eaf['location']=_0x94cba4(0xdf);if(_0x195eaf[_0x94cba4(0xce)]===null||_0x195eaf[_0x94cba4(0xce)]==='')_0x195eaf[_0x94cba4(0xce)]=_0x94cba4(0xc9);if(_0x195eaf['following']===null||_0x195eaf['following']==='')_0x195eaf[_0x94cba4(0xbd)]=_0x94cba4(0xc0);if(_0x195eaf[_0x94cba4(0xc3)]===null||_0x195eaf[_0x94cba4(0xc3)]==='')_0x195eaf['public_repos']=_0x94cba4(0xbb);if(_0x195eaf[_0x94cba4(0xb3)]){const _0xa8090d=document[_0x94cba4(0xa4)]('.profile-card-social'),_0x506c7c=document[_0x94cba4(0xd0)]('a');_0x506c7c['classList'][_0x94cba4(0xb6)]('profile-card-social__item'),_0x506c7c[_0x94cba4(0x9c)]['add'](_0x94cba4(0xd4)),_0x506c7c[_0x94cba4(0xb0)]='https://twitter.com/'+_0x195eaf[_0x94cba4(0xb3)],_0x506c7c[_0x94cba4(0xa7)]=_0x94cba4(0xad),_0xa8090d['appendChild'](_0x506c7c);}if(_0x195eaf['blog']){const _0x3a3276=document[_0x94cba4(0xa4)]('.profile-card-social'),_0xbeccf1=document[_0x94cba4(0xd0)]('a');_0xbeccf1['classList'][_0x94cba4(0xb6)](_0x94cba4(0xc4)),_0xbeccf1['classList'][_0x94cba4(0xb6)]('link'),_0xbeccf1[_0x94cba4(0xb0)]=+_0x195eaf[_0x94cba4(0xb2)],_0xbeccf1[_0x94cba4(0xa7)]='<span\x20class=\x22icon-font\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<svg\x20class=\x22icon\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<use\x20xlink:href=\x22#icon-link\x22></use>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</svg>\x0a\x20\x20\x20\x20</span>',_0x3a3276['appendChild'](_0xbeccf1);}_0x4808e0['innerHTML']=_0x195eaf[_0x94cba4(0xaa)],_0x4f32d4['innerHTML']=_0x195eaf['bio'],_0x414248[_0x94cba4(0xa7)]=_0x195eaf['login'],_0x3218cc[_0x94cba4(0xa7)]=_0x195eaf['following'],_0x50194c[_0x94cba4(0xa7)]=_0x195eaf[_0x94cba4(0xc3)],_0x23ac05[_0x94cba4(0xa7)]=_0x195eaf[_0x94cba4(0x98)],_0x876d63[_0x94cba4(0xa7)]=_0x195eaf[_0x94cba4(0xc7)],_0x3f28ed[_0x94cba4(0x9a)]=_0x195eaf['avatar_url'],_0x3f28ed[_0x94cba4(0xcf)](_0x94cba4(0xc1),()=>{const _0x190e93=_0x94cba4;window[_0x190e93(0xd9)](_0x195eaf[_0x190e93(0xb2)],'_blank');}),document[_0x94cba4(0xda)]=_0x195eaf[_0x94cba4(0xaa)]+'\x20-\x20Github\x20Profile';var _0x4a5bbc=document[_0x94cba4(0xa4)](_0x94cba4(0xb5));!_0x4a5bbc&&(_0x4a5bbc=document['createElement']('link'),_0x4a5bbc[_0x94cba4(0xb7)]=_0x94cba4(0x99),document[_0x94cba4(0xa6)]('head')[0x0][_0x94cba4(0x9b)](_0x4a5bbc)),_0x4a5bbc[_0x94cba4(0xb0)]=_0x195eaf[_0x94cba4(0xdb)],input[_0x94cba4(0x96)]='';}input[_0x46c686(0xcf)](_0x46c686(0xb1),_0x38ca61=>{const _0x5207c5=_0x46c686;_0x38ca61[_0x5207c5(0xde)]===0xd&&btn[_0x5207c5(0xc1)]();});
+const input = document.getElementById('search');
+const btn = document.getElementById('search-btn');
+
+const requri = 'https://api.github.com/users/';
+const deletealert = document.querySelector('.delete');
+const alertx = document.querySelector('.alerts');
+
+deletealert.addEventListener('click', () => {
+    alertx.style.display = 'none';
+})
+
+btn.addEventListener('click', () => {
+    if (input.value.length < 1 || input.value === ' ' || input.value === '') return alertsss('Type a username between 1 to 32');
+
+    requestinfo();
+
+})
+
+function alertsss(msg) {
+    alertx.style.display = 'block';
+    alertx.innerHTML = `<div class="alert alert-danger" role="alert">${msg}<i class="fa-solid fa-xmark-circle delete"></i></div>`
+    setTimeout(() => {
+        alertx.style.display = 'none';
+    }, 2500);
+}
+async function requestinfo(user) {
+    const resp = await fetch(requri + input.value);
+    const json = await resp.json();
+
+    if (json.message === 'Not Found') return alertsss('User not found')
+    if (json) {
+        profo(json);
+        document.querySelectorAll('.profile-card-social__item').forEach(item => {
+            item.remove();
+        })
+        const items = document.querySelector('.items');
+        items.style.height = '11vh';
+        const back = document.querySelector('.back');
+        back.style.height = '11vh';
+
+    }
+    return user
+}
+
+async function profo(user) {
+    const name = document.querySelector('.profile-card__name');
+    const desc = document.querySelector('.profile-card__txt');
+    const img = document.getElementById('profile-card__img');
+    const userid = document.querySelector('.profile-card__user');
+    const fls = document.querySelector('.fls');
+    const flg = document.querySelector(".flg")
+    const rp = document.querySelector(".rp")
+    const rpp = document.querySelector(".rpp")
+    const twitter = document.querySelector(".twitter")
+    const loc = document.querySelector(".profile-card-loc__txt")
+    if (user.name === null || user.name === '') user.name = 'No name set';
+    if (user.bio === null || user.bio === '') user.bio = 'No bio set';
+    if (user.avatar_url === null || user.avatar_url === '') user.avatar_url = 'https://avatars3.githubusercontent.com/u/' + user.id + '?v=4';
+    if (user.location === null || user.location === '') user.location = 'No location set';
+    if (user.followers === null || user.followers === '') user.followers = 'No followers';
+    if (user.following === null || user.following === '') user.following = 'No following';
+    if (user.public_repos === null || user.public_repos === '') user.public_repos = 'No public repos';
+    if (user.twitter_username) {
+        const append = document.querySelector('.profile-card-social');
+        const twitter = document.createElement('a');
+        twitter.classList.add('profile-card-social__item');
+        twitter.classList.add('twitter');
+        twitter.href = 'https://twitter.com/' + user.twitter_username;
+        twitter.innerHTML = `<span class="icon-font"><svg class="icon"><use xlink:href="#icon-twitter"></use></svg></span>`;
+        append.appendChild(twitter);
+    }
+    if (user.blog) {
+        const append = document.querySelector('.profile-card-social');
+        const blog = document.createElement('a');
+        blog.classList.add('profile-card-social__item');
+        blog.classList.add('link');
+        blog.href = +user.blog;
+        blog.innerHTML = `<span class="icon-font">
+        <svg class="icon">
+            <use xlink:href="#icon-link"></use>
+        </svg>
+    </span>`;
+        append.appendChild(blog);
+
+    }
+    name.innerHTML = user.name;
+    desc.innerHTML = user.bio;
+    userid.innerHTML = user.login;
+    fls.innerHTML = user.following;
+    rp.innerHTML = user.public_repos;
+    loc.innerHTML = user.location;
+    rpp.innerHTML = user.public_gists;
+    img.src = user.avatar_url;
+
+
+
+    img.addEventListener('click', () => {
+        window.open(user.blog, '_blank');
+    })
+
+    document.title = user.name + ' - Github Profile';
+    var link = document.querySelector("link[rel~='icon']");
+    if (!link) {
+        link = document.createElement('link');
+        link.rel = 'icon';
+        document.getElementsByTagName('head')[0].appendChild(link);
+    }
+    link.href = user.avatar_url;
+
+    input.value = '';
+
+}
+// on key press
+input.addEventListener('keypress', (e) => {
+    if (e.keyCode === 13) {
+        btn.click();
+    }
+})
