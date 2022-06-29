@@ -497,3 +497,14 @@ a:hover {
         margin-left: 155px;
     }
 }
+.alerts {
+    position: absolute;
+    left: 40%;
+    top: 5%;
+    z-index: 9999;
+    color: rgb(255, 129, 129);
+    display: none;
+}
+.alert i {
+    cursor: pointer;
+}
